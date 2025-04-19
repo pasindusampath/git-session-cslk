@@ -7,6 +7,9 @@ function sayHello(){
 
 function signup(){
     console.log("done");
+}
+
+function login(){
     console.log("done");
 }
 
