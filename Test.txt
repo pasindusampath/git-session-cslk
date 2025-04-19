@@ -9,3 +9,7 @@ function signup(){
     console.log("done");
     console.log("done");
 }
+
+function forgetPassword(){
+    console.log("forget password");
+}
