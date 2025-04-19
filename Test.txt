@@ -12,3 +12,7 @@ function signup(){
 function login(){
     console.log("done");
 }
+
+function forgetPassword(){
+    console.log("forget password");
+}
