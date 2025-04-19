@@ -4,3 +4,7 @@ hello
 function sayHello(){
     console.log("Hello World");
 }
+
+function forgetPassword(){
+    console.log("forget password");
+}
