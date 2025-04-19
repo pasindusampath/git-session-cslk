@@ -4,3 +4,7 @@ hello
 function sayHello(){
     console.log("Hello World");
 }
+
+function signup(){
+    console.log("done");
+}
